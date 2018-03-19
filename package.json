@@ -1,0 +1,41 @@
+{
+  "name": "next-inferno-typescript",
+  "version": "0.0.1",
+  "description": "next.js + Inferno + TypeScript",
+  "main": "index.js",
+  "author": "Maxim Kobozev <quesesr@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/queses/next-inferno-typescript.git"
+  },
+  "bugs": "https://github.com/queses/next-inferno-typescript/issues",
+  "tags": [
+    "inferno",
+    "typescript",
+    "ts",
+    "react",
+    "ssr",
+    "next.js",
+    "next"
+  ],
+  "keywords": [
+    "inferno",
+    "typescript",
+    "ts",
+    "react",
+    "ssr",
+    "next.js",
+    "next"
+  ],
+  "peerDependencies": {
+    "inferno": "^5.0.0",
+    "inferno-compat": "^5.0.0",
+    "inferno-server": "^5.0.0"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^4.0.1",
+    "module-alias": "^2.0.0",
+    "next-inferno": "^0.0.2"
+  }
+}
