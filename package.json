@@ -1,6 +1,6 @@
 {
   "name": "next-inferno-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "next.js + Inferno + TypeScript",
   "main": "index.js",
   "author": "Maxim Kobozev <quesesr@gmail.com>",
